@@ -4,9 +4,10 @@
 ## Folder	Description
  Folder Name | Description
  ------------|---------------------------
-0-Abstract |  Brief details about project
-1-Requirements  |	Documents detailing requirements|
-2-Design|Documents specifying design details
-3-Implementation	|All code and documentation
-4-TestCases|	Documents with test plans and procedures
-5-Report| Overall report of project Implementation
+0_Abstract |  Brief details about project
+1_Requirements  |	Documents detailing requirements|
+2_Design|Documents specifying design details
+3_Implementation	|All code and documentation
+4_TestCases|	Documents with test plans and procedures
+5_Report| Overall report of project Implementation
+6_Output|Final output
