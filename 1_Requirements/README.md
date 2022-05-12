@@ -7,6 +7,10 @@ The wiper system is an essential component of the entire vehicle system. They ar
 - STM32F407 based controller 
 - Push button to turn on ignition
 - LED indicating the wiping operations
+
+## Software Used
+- STM32CubeIDE
+
 ## SWOT ANALYSIS
 ## Strengths
 - Clean windshield during heavy rains
